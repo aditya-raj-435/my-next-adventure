@@ -1,0 +1,24 @@
+# Example input and output directories
+input/
+output/
+
+# Node modules and dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Docker build cache
+.dockerignore
+
+# IDE files
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Test files
+*.test.pdf
+test-output/
